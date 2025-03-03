@@ -8,6 +8,7 @@ namespace FirstProject
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private SpriteFont font;
 
         public Game1()
         {
@@ -26,6 +27,7 @@ namespace FirstProject
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
+            font = Content.Load<SpriteFont>("File");
 
             // TODO: use this.Content to load your game content here
         }
@@ -42,9 +44,13 @@ namespace FirstProject
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Black);
 
             // TODO: Add your drawing code here
+            _spriteBatch.Begin();
+            _spriteBatch.DrawString(font, "TexeT",new Vector2(0,0),Color.Purple);
+            _spriteBatch.DrawString(font, "TexeT Baixo", new Vector2(270, 250), Color.Purple);
+            _spriteBatch.End();
 
             base.Draw(gameTime);
         }
