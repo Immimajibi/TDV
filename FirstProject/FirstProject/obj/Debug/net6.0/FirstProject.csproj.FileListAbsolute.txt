@@ -25,3 +25,8 @@ C:\Users\gui05\TDV\FirstProject\FirstProject\obj\Debug\net6.0\refint\FirstProjec
 C:\Users\gui05\TDV\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.pdb
 C:\Users\gui05\TDV\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
 C:\Users\gui05\TDV\FirstProject\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
+C:\Users\gui05\TDV\FirstProject\FirstProject\bin\Debug\net6.0\Content\Character4.xnb
+C:\Users\gui05\TDV\FirstProject\FirstProject\bin\Debug\net6.0\Content\Crate_Brown.xnb
+C:\Users\gui05\TDV\FirstProject\FirstProject\bin\Debug\net6.0\Content\EndPoint_Blue.xnb
+C:\Users\gui05\TDV\FirstProject\FirstProject\bin\Debug\net6.0\Content\Wall_Brown.xnb
+C:\Users\gui05\TDV\FirstProject\FirstProject\bin\Debug\net6.0\Content\level1.txt

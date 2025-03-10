@@ -4,9 +4,17 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/gui05/TDV/FirstProject/FirstProject/Content/Character4.png</File>
+    <File>C:/Users/gui05/TDV/FirstProject/FirstProject/Content/Crate_Brown.png</File>
+    <File>C:/Users/gui05/TDV/FirstProject/FirstProject/Content/EndPoint_Blue.png</File>
     <File>C:/Users/gui05/TDV/FirstProject/FirstProject/Content/File.spritefont</File>
+    <File>C:/Users/gui05/TDV/FirstProject/FirstProject/Content/Wall_Brown.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
